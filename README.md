@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KrishnaSChavan
 - 👀 I’m interested in Data science/Machine learning
-- 🌱 I’m currently learning ANN
+- 🌱 I’m currently learning DL(Deep Learning) using Tensorflow and Keras
 - 📫 How to reach me krishnachavan538@gmail.com
 
 <!---
