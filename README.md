@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Tensorflow and keras**
 
-- 👯 I’m looking to collaborate on **Any One**
+- 👯 I’m looking to collaborate with **Any One**
 
 - 💬 Ask me about **None**
 
