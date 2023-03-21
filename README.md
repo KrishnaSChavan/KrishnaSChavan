@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/krishna-chavan-7a524420b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BcjljSoHESzeMW5%2BAwIpLZg%3D%3D*
 
-- ⚡ Fun fact **I like to sleep**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
