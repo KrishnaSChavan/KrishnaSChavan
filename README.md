@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Computer vision**
 
-- 🌱 I’m currently learning **Tensorflow and keras**
+- 🌱 I’m currently learning **Flask**
 
 - 👯 I’m looking to collaborate with **Any One**
 
