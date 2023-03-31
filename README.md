@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krishnaschavan" alt="krishnaschavan" /></a> </p>
 
-- 🔭 I’m currently working on **Computer vision**
+- 🔭 I’m currently working on **Transfer learning**
 
-- 🌱 I’m currently learning **Flask**
+- 🌱 I’m currently learning **Tensorflow liberary**
 
 - 👯 I’m looking to collaborate with **Any One**
 
-- 💬 Ask me about **None**
+- 💬 Ask me about **Anything**
 
 - 📫 How to reach me **https://www.linkedin.com/in/krishna-chavan-7a524420b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BcjljSoHESzeMW5%2BAwIpLZg%3D%3D*
 
