@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krishnaschavan&theme=flat" alt="krishnaschavan" /></a> </p>
 
-- 🔭 I’m currently working on **Transfer learning and PostgreSQL**
+- 🔭 I’m currently working on **GAN**
 
 - 🌱 I’m currently learning **Tensorflow liberary**
 
